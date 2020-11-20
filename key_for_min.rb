@@ -19,5 +19,5 @@ end
     end
     
   end   
-  key
+  min_key
 end
